@@ -1,14 +1,7 @@
-![alt text](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deplicator&theme=2077)
-
-![alt text](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deplicator&theme=2077)
-
-![alt text](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deplicator&theme=2077)
-
+  
 ![alt text](https://github-profile-trophy.vercel.app/?username=deplicator)
 
-![alt text](https://github-readme-streak-stats.herokuapp.com/?user=deplicator&theme=2077)
-
-![alt text](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeplicator1212%2Fhit-counter)
+![alt text](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deplicator&theme=2077) ![alt text](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deplicator&theme=2077)
 
 <!--
 **deplicator/deplicator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
