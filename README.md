@@ -1,19 +1,12 @@
-  
+### Some projects I did that are cool, but not on GitHub:
+
+- [Personal Kanban Board](https://gitlab.com/deplicator/personal-kanban-board)
+- [Godot 4 to Itch.io in GitLab CI/CD](https://gitlab.com/deplicator/gitlab-godot4-itchio) (counterpart to Godot 4 to Itch.io in GitHub Actions)
+- [A quirky Chess Game](https://gitlab.com/deplicator/upgradeable-chess-game)
+
+
+### Some automated image things I found:
+
 ![alt text](https://github-profile-trophy.vercel.app/?username=deplicator)
 
 ![alt text](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deplicator&theme=2077) ![alt text](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deplicator&theme=2077)
-
-<!--
-**deplicator/deplicator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
