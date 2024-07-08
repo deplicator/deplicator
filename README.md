@@ -1,7 +1,8 @@
 ### Some projects I did that are cool, but not on GitHub:
 
 - [Personal Kanban Board](https://gitlab.com/deplicator/personal-kanban-board)
-- [Godot 4 to Itch.io in GitLab CI/CD](https://gitlab.com/deplicator/gitlab-godot4-itchio) (counterpart to Godot 4 to Itch.io in GitHub Actions)
+- [Gitea Action: Godot 4 to Itch.io](https://gitea.com/deplicator/gitea-godot4-itchio) (counterpart to Godot 4 to Itch.io in GitHub Actions)
+- [GitLab CI/CD: Godot 4 to Itch.io](https://gitlab.com/deplicator/gitlab-godot4-itchio) (counterpart to Godot 4 to Itch.io in GitHub Actions)
 - [A quirky Chess Game](https://gitlab.com/deplicator/upgradeable-chess-game)
 
 
