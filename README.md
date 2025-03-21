@@ -1,4 +1,4 @@
-## Projects on GitLab
+## Projects on [GitLab](https://gitlab.com/users/deplicator/projects)
 
 ### PokeAPI Explorer
 
@@ -29,7 +29,7 @@ A quirky chess game.
 
 - Soruce: <https://gitlab.com/deplicator/upgradeable-chess-game>
 
-## Projects on Gitea
+## Projects on [Gitea](https://gitea.com/deplicator)
 
 ### Gitea Action: Godot 4 to Itch.io
 
