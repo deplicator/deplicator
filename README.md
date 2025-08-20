@@ -1,5 +1,22 @@
 ## Projects on [GitLab](https://gitlab.com/users/deplicator/projects)
 
+### Orter - Retrospective Tool
+
+I wanted to complete* a project from nothing.
+
+- Project: <https://orter.org>
+- Demo: <https://demo.orter.org>
+- Source: <https://gitlab.com/deplicator/orter>
+
+_\* nothing is ever complete_
+
+### Weird Clock Thing
+
+An experimental that turned out to be fun to work on and play.
+
+- Project: <https://deplicator.itch.io/weird-clock-game>
+- Source: <https://gitlab.com/deplicator/weird-clock-thing>
+
 ### PokeAPI Explorer
 
 An excuse to play with Next.js.
