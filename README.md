@@ -2,11 +2,12 @@
 
 ### Orter - Retrospective Tool
 
-I wanted to complete* a project from nothing.
+Playing with ideas for a retro tool I felt were missing in similar tools.
 
 - Project: <https://orter.org>
 - Demo: <https://demo.orter.org>
 - Source: <https://gitlab.com/deplicator/orter>
+- Post: <https://deplicator.gitlab.io/posts/2025/1-orter-a-retrospective-tool>
 
 _\* nothing is ever complete_
 
