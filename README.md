@@ -1,93 +1,80 @@
-# deplicator
+# Hi, I'm James Pryor 👋
 
+Software Engineer | Nerd
 
+## Contact
 
-## Getting started
+[![Email](https://img.shields.io/badge/Email-james@geekwagon.net-D57900?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAAAmJLR0QA/4ePzL8AAAAHdElNRQfqAQUPBTgvnEAgAAAAyUlEQVQ4y82SwQnCQBBFf/QmaAFCsAUhYA0GEXKxBVuwBVuwBS85WIUQsAVJYgEK3pTnIdFkjTEJgmTmtMt77MzOWKhZdBryfxNmikVFRnIlKTlF1IkQIYvEkqyKWlIm62GnUSk81DYnovTJKyu6heI7LLmkhMgJc47AgYmBj9kDJxZFQfRYc+POhgEyzv0XYwhCOARAiIdHCAQ4GMy7kNR8/tBTqSCEjY+PbdylzA9zaNm2xs+Rf0kpylbDrbGvIdPsl1rYdIN4AAPuSSxuwJvWAAAAAElFTkSuQmCC)](mailto:james@geekwagon.net)
+[![Website](https://img.shields.io/badge/Website-geekwagon.net-005CD5?logo=rss&logoColor=white)](https://geekwagon.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fpryorj-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K)](https://www.linkedin.com/in/pryorj/)
+[![Mastodon](https://img.shields.io/badge/Mastodon-%40deplicator%40c.im-6364FF?logo=mastodon&logoColor=white)](https://c.im/@deplicator)
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/deplicator)
+[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=white)](https://codeberg.org/deplicator)
+[![Gitea](https://img.shields.io/badge/Gitea-6EAA5B?logo=gitea&logoColor=white)](https://your-gitea-instance.com/deplicator)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/deplicator)
+[![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://deplicator.itch.io/)
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+## Featured Projects
 
-## Add your files
+### Orter - Retrospective Tool
 
-* [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-* [Add files using the command line](https://docs.gitlab.com/topics/git/add_files/#add-files-to-a-git-repository) or push an existing Git repository with the following command:
+My own spin on a retro tool with features I felt were lacking from others. Specifically the ability
+to turn complaints into actions and keep everyone on the same page.
 
-```
-cd existing_repo
-git remote add origin https://gitlab.com/deplicator/deplicator.git
-git branch -M main
-git push -uf origin main
-```
+- Project: <https://orter.org>
+- Demo: <https://demo.orter.org>
+- Source: <https://gitlab.com/deplicator/orter>
+- Post: <https://deplicator.gitlab.io/posts/2025/1-orter-a-retrospective-tool>
 
-## Integrate with your tools
+### Weird Clock Thing
 
-* [Set up project integrations](https://gitlab.com/deplicator/deplicator/-/settings/integrations)
+An experimental game that turned out to be fun to work on and play.
 
-## Collaborate with your team
+- Project: <https://deplicator.itch.io/weird-clock-game>
+- Source: <https://gitlab.com/deplicator/weird-clock-thing>
 
-* [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-* [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-* [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-* [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-* [Set auto-merge](https://docs.gitlab.com/user/project/merge_requests/auto_merge/)
+### Personal Kanban Board
 
-## Test and Deploy
+Client side only Kanban board with drag and drop.
 
-Use the built-in continuous integration in GitLab.
+- Project: <https://deplicator.gitlab.io/personal-kanban-board/>
+- Source: <https://gitlab.com/deplicator/personal-kanban-board>
 
-* [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/)
-* [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-* [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-* [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-* [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+### Godot 4.x to Itch.io CI/CD Examples
 
-***
+Example projects demonstrating how to push a Godot 4.x game with various CI/CD pipelines (GitLab,
+Gitea, and GitHub) to Itch.io.
 
-# Editing this README
+- Post: <https://deplicator.gitlab.io/posts/2024/2-devops-for-indie-games/>
+- Another Post: <https://deplicator.gitlab.io/posts/2024/3-more-game-related-devops/>
+- GitLab
+  - Project: <https://deplicator.itch.io/gitlab-godot4-itchio>
+  - Source: <https://gitlab.com/deplicator/gitlab-godot4-itchio>
+- Gitea
+  - Project: <https://deplicator.itch.io/gitea-godot4-itchio>
+  - Source: <https://gitea.com/deplicator/gitea-godot4-itchio>
+- Github
+  - Project: <https://deplicator.itch.io/github-godot4-itchio>
+  - Source: <https://github.com/deplicator/github-godot4-itchio>
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
+### xkcd Time: At Your Pace
 
-## Suggestions for a good README
+One of my first projects that did well. This display's [xkcd Time (1190)](https://xkcd.com/1190) in
+a navigable way. It's now linked from the official xkcd comic! Made an update years later to run it
+on GitHub pages.
 
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+[![GitHub
+Stars](https://img.shields.io/github/stars/deplicator/xkcd-time-at-your-pace?style=social)](https://github.com/deplicator/xkcd-time-at-your-pace)
 
-## Name
-Choose a self-explaining name for your project.
+- Project: <https://deplicator.github.io/xkcd-time-at-your-pace/>
+- Source: <https://github.com/deplicator/xkcd-time-at-your-pace>
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+### Ultima VII Party Planner
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+Mostly an excsuse to play with new frameworks (at the time). Featured on [Ultima
+Codex](https://ultimacodex.com/2015/10/check-out-the-ultima-7-party-planner/)!
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+- Project: <https://deplicator.github.io/U7PartyPlanner/>
+- Source: <https://github.com/deplicator/U7PartyPlanner>
+- Post: <https://deplicator.gitlab.io/posts/2014/1-ultima-vii-party-planner/>

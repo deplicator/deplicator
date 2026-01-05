@@ -1,0 +1,33 @@
+stages:
+  - mirror
+
+mirror_to_forges:
+  stage: mirror
+  image: alpine:latest
+  rules:
+    - if: $CI_SERVER_HOST == "gitlab.com" && $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  before_script:
+    - apk add --no-cache git
+    - git config --global user.name "James Pryor"
+    - git config --global user.email "james@geekwagon.net"
+  script:
+    - cd "$CI_PROJECT_DIR"
+
+    # Codeberg mirror
+    - |
+      git remote set-url codeberg https://${CODEBERG_TOKEN}@codeberg.org/deplicator/.profile.git || \
+      git remote add codeberg https://${CODEBERG_TOKEN}@codeberg.org/deplicator/.profile.git
+    - git push --mirror codeberg
+
+    # Gitea.com mirror
+    - |
+      git remote set-url gitea https://${GITEA_TOKEN}@gitea.com/deplicator/.profile.git || \
+      git remote add gitea https://${GITEA_TOKEN}@gitea.com/deplicator/.profile.git
+    - git push --mirror gitea
+
+    # GitHub mirror
+    - |
+      git remote set-url github https://x-access-token:${GITHUB_TOKEN}@github.com/deplicator/deplicator.git || \
+      git remote add github https://x-access-token:${GITHUB_TOKEN}@github.com/deplicator/deplicator.git
+    - git push --mirror github
+  
