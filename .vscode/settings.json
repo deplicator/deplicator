@@ -1,0 +1,23 @@
+{
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "all",
+    "editor.rulers": [
+        120
+    ],
+    "files.insertFinalNewline": true,
+    "markdownlint.config": {
+        "first-line-h1": false
+    },
+    "cSpell.words": [
+        "Calibri",
+        "Codeberg",
+        "fontsize",
+        "frontends",
+        "Gitea",
+        "mainfont",
+        "Orter",
+        "pryorj",
+        "xelatex",
+        "xkcd"
+    ]
+}
