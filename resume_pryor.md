@@ -10,7 +10,8 @@ mainfont: Calibri
 - Singapore (Relocating Early 2026)
 - +1 (832) 515-6956
 - [james.pryor@gmail.com](mailto:james.pryor@gmail.com)
-- [linkedin.com/in/pryorj](linkedin.com/in/pryorj)
+- [gitlab.com/deplicator](http://gitlab.com/deplicator)
+- [linkedin.com/in/pryorj](http://linkedin.com/in/pryorj)
 
 ## Professional Summary
 
