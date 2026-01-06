@@ -6,7 +6,12 @@
     ],
     "files.insertFinalNewline": true,
     "markdownlint.config": {
-        "first-line-h1": false
+        "no-inline-html": {
+            "allowed_elements": [
+                "img",
+                "iframe"
+            ]
+        }
     },
     "cSpell.words": [
         "Calibri",

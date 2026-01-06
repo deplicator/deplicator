@@ -24,63 +24,64 @@ PDF](https://img.shields.io/badge/Resume-PDF-ED2224?logo=googledocs&logoColor=wh
 
 ## Featured Projects
 
-### Orter - Retrospective Tool
+### Orter: Retrospective Tool
 
-My own spin on a retro tool with features I felt were lacking from others. Specifically the ability to turn complaints
-into actions and keep everyone on the same page.
+Turn complaints into actions and keep everyone on track, during the meeting and across retros.
 
-- Project: <https://orter.org>
-- Demo: <https://demo.orter.org>
-- Source: <https://gitlab.com/deplicator/orter>
-- Post: <https://deplicator.gitlab.io/posts/2025/1-orter-a-retrospective-tool>
+[Project](https://orter.org) · [Demo](https://demo.orter.org) · [Source](https://gitlab.com/deplicator/orter) · [Post](https://deplicator.gitlab.io/posts/2025/1-orter-a-retrospective-tool)
+
+<img src="./assets/orter-screenshot.png" alt="alt text" width="400">
 
 ### Weird Clock Thing
 
-An experimental game that turned out to be fun to work on and play.
+An experimental tower defense game that emerged through iteration and play testing.
 
-- Project: <https://deplicator.itch.io/weird-clock-game>
-- Source: <https://gitlab.com/deplicator/weird-clock-thing>
+[Play](https://deplicator.itch.io/weird-clock-game) · [Source](https://gitlab.com/deplicator/weird-clock-thing)
+
+<iframe
+  width="400"
+  height="225"
+  src="https://www.youtube.com/embed/mRc2Gb_gocE"
+  title="Weird Clock Thing gameplay"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
 
 ### Personal Kanban Board
 
-Client side only Kanban board with drag and drop.
+Client side only Kanban board with drag and drop!
 
-- Project: <https://deplicator.gitlab.io/personal-kanban-board/>
-- Source: <https://gitlab.com/deplicator/personal-kanban-board>
+[Project](https://deplicator.gitlab.io/personal-kanban-board/) · [Source](https://gitlab.com/deplicator/personal-kanban-board)
 
-### Godot 4.x to Itch.io CI/CD Examples
+### Godot 4.x → Itch.io CI/CD Examples
 
-Example projects demonstrating how to push a Godot 4.x game with various CI/CD pipelines (GitLab, Gitea, and GitHub) to
-Itch.io.
+Example projects demonstrating how to reliably ship a Godot 4.x game to Itch.io using different CI/CD systems.
 
-- Post: <https://deplicator.gitlab.io/posts/2024/2-devops-for-indie-games/>
-- Another Post: <https://deplicator.gitlab.io/posts/2024/3-more-game-related-devops/>
-- GitLab
-  - Project: <https://deplicator.itch.io/gitlab-godot4-itchio>
-  - Source: <https://gitlab.com/deplicator/gitlab-godot4-itchio>
-- Gitea
-  - Project: <https://deplicator.itch.io/gitea-godot4-itchio>
-  - Source: <https://gitea.com/deplicator/gitea-godot4-itchio>
-- Github
-  - Project: <https://deplicator.itch.io/github-godot4-itchio>
-  - Source: <https://github.com/deplicator/github-godot4-itchio>
+Blog Posts: [DevOps for Indie Games](https://deplicator.gitlab.io/posts/2024/2-devops-for-indie-games/) · [More Game Related DevOps](https://deplicator.gitlab.io/posts/2024/3-more-game-related-devops/)
+
+| Platform | Playable Build                                             | Source                                                     |
+|----------|------------------------------------------------------------|------------------------------------------------------------|
+| GitLab   | [Itch.io](https://deplicator.itch.io/gitlab-godot4-itchio) | [Repo](https://gitlab.com/deplicator/gitlab-godot4-itchio) |
+| Gitea    | [Itch.io](https://deplicator.itch.io/gitea-godot4-itchio)  | [Repo](https://gitea.com/deplicator/gitea-godot4-itchio)   |
+| GitHub   | [Itch.io](https://deplicator.itch.io/github-godot4-itchio) | [Repo](https://github.com/deplicator/github-godot4-itchio) |
 
 ### xkcd Time: At Your Pace
 
 One of my first projects that did well. This display's [xkcd Time (1190)](https://xkcd.com/1190) in a navigable way.
 It's now linked from the official xkcd comic! Made an update years later to run it on GitHub pages.
 
+[Project](https://deplicator.github.io/xkcd-time-at-your-pace/) · [Source](https://github.com/deplicator/xkcd-time-at-your-pace)
+
 [![GitHub
 Stars](https://img.shields.io/github/stars/deplicator/xkcd-time-at-your-pace?style=social)](https://github.com/deplicator/xkcd-time-at-your-pace)
-
-- Project: <https://deplicator.github.io/xkcd-time-at-your-pace/>
-- Source: <https://github.com/deplicator/xkcd-time-at-your-pace>
 
 ### Ultima VII Party Planner
 
 Mostly an excuse to play with new frameworks (at the time). Featured on [Ultima
 Codex](https://ultimacodex.com/2015/10/check-out-the-ultima-7-party-planner/)!
 
-- Project: <https://deplicator.github.io/U7PartyPlanner/>
-- Source: <https://github.com/deplicator/U7PartyPlanner>
-- Post: <https://deplicator.gitlab.io/posts/2014/1-ultima-vii-party-planner/>
+[Project](https://deplicator.github.io/U7PartyPlanner/) · [Source](https://github.com/deplicator/U7PartyPlanner) · [Post](https://deplicator.gitlab.io/posts/2014/1-ultima-vii-party-planner)
+
+<img src="./assets/u7-party-planner-screenshot.png" alt="alt text" width="400">
