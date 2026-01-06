@@ -30,7 +30,7 @@ Turn complaints into actions and keep everyone on track, during the meeting and 
 
 [Project](https://orter.org) · [Demo](https://demo.orter.org) · [Source](https://gitlab.com/deplicator/orter) · [Post](https://deplicator.gitlab.io/posts/2025/1-orter-a-retrospective-tool)
 
-<img src="./assets/orter-screenshot.png" alt="alt text" width="400">
+<img src="https://gitlab.com/deplicator/deplicator/-/raw/main/assets/orter-screenshot.png" alt="alt text" width="400">
 
 ### Weird Clock Thing
 
@@ -84,4 +84,4 @@ Codex](https://ultimacodex.com/2015/10/check-out-the-ultima-7-party-planner/)!
 
 [Project](https://deplicator.github.io/U7PartyPlanner/) · [Source](https://github.com/deplicator/U7PartyPlanner) · [Post](https://deplicator.gitlab.io/posts/2014/1-ultima-vii-party-planner)
 
-<img src="./assets/u7-party-planner-screenshot.png" alt="alt text" width="400">
+<img src="https://gitlab.com/deplicator/deplicator/-/raw/main/assets//u7-party-planner-screenshot.png" alt="alt text" width="400">
