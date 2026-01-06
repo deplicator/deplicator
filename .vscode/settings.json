@@ -8,8 +8,7 @@
     "markdownlint.config": {
         "no-inline-html": {
             "allowed_elements": [
-                "img",
-                "iframe"
+                "img"
             ]
         }
     },

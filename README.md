@@ -36,18 +36,7 @@ Turn complaints into actions and keep everyone on track, during the meeting and 
 
 An experimental tower defense game that emerged through iteration and play testing.
 
-[Play](https://deplicator.itch.io/weird-clock-game) · [Source](https://gitlab.com/deplicator/weird-clock-thing)
-
-<iframe
-  width="400"
-  height="225"
-  src="https://www.youtube.com/embed/mRc2Gb_gocE"
-  title="Weird Clock Thing gameplay"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin"
-  allowfullscreen>
-</iframe>
+[Play](https://deplicator.itch.io/weird-clock-game) · [Video](https://www.youtube.com/embed/mRc2Gb_gocE) · [Source](https://gitlab.com/deplicator/weird-clock-thing)
 
 ### Personal Kanban Board
 
