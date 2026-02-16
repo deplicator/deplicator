@@ -9,6 +9,7 @@ Software Engineer that focuses on tools people can use, games no one plays, and 
 [![Email](https://img.shields.io/badge/Email-james@geekwagon.net-c0c0c0?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAAAmJLR0QA/4ePzL8AAAAHdElNRQfqAQUPBTgvnEAgAAAAyUlEQVQ4y82SwQnCQBBFf/QmaAFCsAUhYA0GEXKxBVuwBVuwBS85WIUQsAVJYgEK3pTnIdFkjTEJgmTmtMt77MzOWKhZdBryfxNmikVFRnIlKTlF1IkQIYvEkqyKWlIm62GnUSk81DYnovTJKyu6heI7LLmkhMgJc47AgYmBj9kDJxZFQfRYc+POhgEyzv0XYwhCOARAiIdHCAQ4GMy7kNR8/tBTqSCEjY+PbdylzA9zaNm2xs+Rf0kpylbDrbGvIdPsl1rYdIN4AAPuSSxuwJvWAAAAAElFTkSuQmCC&style=flat-square)](mailto:james@geekwagon.net)
 [![Blog](https://img.shields.io/badge/Blog-geekwagon.net-EE802F?logo=rss&logoColor=white&style=flat-square)](https://geekwagon.net)
 [![Mastodon](https://img.shields.io/badge/Mastodon-%40deplicator%40c.im-6358B6?logo=mastodon&logoColor=white&style=flat-square)](https://c.im/@deplicator)
+[![Bluesky](https://img.shields.io/badge/Bluesky-%40geekwagon.net-0085FF?logo=bluesky&logoColor=white&style=flat-square)](https://bsky.app/profile/geekwagon.net)
 
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D27?logo=gitlab&logoColor=white&style=flat-square)](https://gitlab.com/deplicator)
 [![Codeberg](https://img.shields.io/badge/Codeberg-004080?logo=codeberg&logoColor=white&style=flat-square)](https://codeberg.org/deplicator)
