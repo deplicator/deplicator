@@ -13,7 +13,7 @@ Software Engineer that focuses on tools people can use, games no one plays, and 
 
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D27?logo=gitlab&logoColor=white&style=flat-square)](https://gitlab.com/deplicator)
 [![Codeberg](https://img.shields.io/badge/Codeberg-004080?logo=codeberg&logoColor=white&style=flat-square)](https://codeberg.org/deplicator)
-[![Gitea](https://img.shields.io/badge/Gitea-73A952?logo=gitea&logoColor=white&style=flat-square)](https://your-gitea-instance.com/deplicator)
+[![Gitea](https://img.shields.io/badge/Gitea-73A952?logo=gitea&logoColor=white&style=flat-square)](https://gitea.com/deplicator)
 [![GitHub](https://img.shields.io/badge/GitHub-211F1F?logo=github&logoColor=white&style=flat-square)](https://github.com/deplicator)
 [![Itch.io](https://img.shields.io/badge/itch.io-562222.svg?logo=Itch.io&logoColor=white&style=flat-square)](https://deplicator.itch.io/)
 
