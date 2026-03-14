@@ -25,13 +25,21 @@ PDF](https://img.shields.io/badge/Resume-PDF-ED2224?logo=googledocs&logoColor=wh
 
 ## Featured Projects
 
+### Adventure Clonunist / Bureaucrats
+
+A simple clone I made for fun and kicks.
+
+[Play](https://deplicator.itch.io/adventure-clonunist) · [Post](https://deplicator.gitlab.io/posts/2026/1-adventure-clonunist/)
+
+<img src="https://gitlab.com/deplicator/deplicator/-/raw/main/assets/adventure-clonunist-screenshot.png" alt="Adventure Clonuist screenshot" width="400">
+
 ### Orter: Retrospective Tool
 
 Turn complaints into actions and keep everyone on track, during the meeting and across retros.
 
 [Project](https://orter.org) · [Demo](https://demo.orter.org) · [Source](https://gitlab.com/deplicator/orter) · [Post](https://deplicator.gitlab.io/posts/2025/1-orter-a-retrospective-tool)
 
-<img src="https://gitlab.com/deplicator/deplicator/-/raw/main/assets/orter-screenshot.png" alt="alt text" width="400">
+<img src="https://gitlab.com/deplicator/deplicator/-/raw/main/assets/orter-screenshot.png" alt="Orter screenshot" width="400">
 
 ### Weird Clock Thing
 
@@ -67,7 +75,7 @@ It's now linked from the official xkcd comic! Made an update years later to run 
 [![GitHub
 Stars](https://img.shields.io/github/stars/deplicator/xkcd-time-at-your-pace?style=social)](https://github.com/deplicator/xkcd-time-at-your-pace)
 
-<img src="https://gitlab.com/deplicator/deplicator/-/raw/main/assets/at-your-pace-screenshot.png" alt="alt text" width="400">
+<img src="https://gitlab.com/deplicator/deplicator/-/raw/main/assets/at-your-pace-screenshot.png" alt="Time at Your Pace screenshot" width="400">
 
 ### Ultima VII Party Planner
 
@@ -76,4 +84,4 @@ Codex](https://ultimacodex.com/2015/10/check-out-the-ultima-7-party-planner/)!
 
 [Project](https://deplicator.github.io/U7PartyPlanner/) · [Source](https://github.com/deplicator/U7PartyPlanner) · [Post](https://deplicator.gitlab.io/posts/2014/1-ultima-vii-party-planner)
 
-<img src="https://gitlab.com/deplicator/deplicator/-/raw/main/assets/u7-party-planner-screenshot.png" alt="alt text" width="400">
+<img src="https://gitlab.com/deplicator/deplicator/-/raw/main/assets/u7-party-planner-screenshot.png" alt="U7 Party Planner screenshot" width="400">
