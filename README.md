@@ -47,6 +47,8 @@ An experimental tower defense game that emerged through iteration and play testi
 
 [Play](https://deplicator.itch.io/weird-clock-game) · [Video](https://www.youtube.com/embed/mRc2Gb_gocE) · [Source](https://gitlab.com/deplicator/weird-clock-thing)
 
+<img src="https://gitlab.com/deplicator/deplicator/-/raw/main/assets/weird-clock-thing-screenshot.png" alt="Weird Clock Thing screenshot" width="400">
+
 ### Personal Kanban Board
 
 Client side only Kanban board with drag and drop!
