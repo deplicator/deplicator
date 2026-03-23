@@ -21,7 +21,7 @@ Software Engineer that focuses on tools people can use, games no one plays, and 
 [![Resume in
 Markdown](https://img.shields.io/badge/Resume-markdown-c0c0c0?logo=markdown&logoColor=white&style=flat-square)](https://gitlab.com/deplicator/deplicator/-/blob/main/resume_pryor.md)
 [![Resume in
-PDF](https://img.shields.io/badge/Resume-PDF-ED2224?logo=googledocs&logoColor=white&style=flat-square)](https://gitlab.com/deplicator/deplicator/-/blob/main/resume_pryor.pdf)
+PDF](https://img.shields.io/badge/Resume-PDF-ED2224?logo=googledocs&logoColor=white&style=flat-square)](https://gitlab.com/deplicator/deplicator/-/raw/main/resume_pryor.pdf)
 
 ## Featured Projects
 
