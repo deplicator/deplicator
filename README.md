@@ -25,11 +25,19 @@ PDF](https://img.shields.io/badge/Resume-PDF-ED2224?logo=googledocs&logoColor=wh
 
 ## Featured Projects
 
+### Variations on Pac-Man
+
+A game project with goals and a deadline!
+
+[Play](https://geekwagon.itch.io/variations-on-pac-man) · [Post](https://geekwagon.net/posts/2026/2-variations-on-pac-man) · [Source](https://gitlab.com/geekwagon/variations-on-pac-man)
+
+![Variations on Pac-Man banner](./assets/variations-on-pac-man-banner.png)
+
 ### Adventure Clonunist / Bureaucrats
 
 A simple clone I made for fun and kicks.
 
-[Play](https://deplicator.itch.io/adventure-clonunist) · [Post](https://deplicator.gitlab.io/posts/2026/1-adventure-clonunist/)
+[Play](https://deplicator.itch.io/adventure-clonunist) · [Post](https://deplicator.gitlab.io/posts/2026/1-adventure-clonunist)
 
 <img src="https://gitlab.com/deplicator/deplicator/-/raw/main/assets/adventure-clonunist-screenshot.png" alt="Adventure Clonuist screenshot" width="400">
 
