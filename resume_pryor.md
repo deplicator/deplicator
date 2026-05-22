@@ -7,9 +7,9 @@ mainfont: Calibri
 
 # James Pryor
 
-Singapore · Dependant’s Pass (eligible for Employment Pass sponsorship)  
-+65 8399 2124 · +1 832-515-6956  
-[james.pryor@gmail.com](mailto:james.pryor@gmail.com)  
+Singapore · Dependant’s Pass (ONE Pass Spouse – LOC Eligible)  
++65 8399 2124 · +1 (832) 515-6956  
+[james.pryor@pm.me](mailto:james.pryor@pm.me)  
 [gitlab.com/deplicator](https://gitlab.com/deplicator/) · [linkedin.com/in/pryorj](https://linkedin.com/in/pryorj)
 
 ## Summary
